@@ -234,6 +234,13 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+.elementor-36615 .elementor-element.elementor-element-8e56b98>.elementor-widget-container2 {
+  margin: 0px 0px 0px 0px;
+  background-image: url("../images/pharmaceuticals.png");
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 .elementor-36615 .elementor-element.elementor-element-4199eee .cea-button .cea-align-icon-right {
   margin-left: 5px;
@@ -350,6 +357,22 @@
   background-size: cover;
 }
 
+.elementor-36615 .elementor-element.elementor-element-4199eee>.elementor-widget-container2 {
+  margin: 0px 0px 0px 0px;
+  background-image: url("../images/slider-shape-imgopt8.png");
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.elementor-36615 .elementor-element.elementor-element-4199eee>.elementor-widget-container3 {
+  margin: 0px 0px 0px 0px;
+  background-image: url("../images/slider-shape-imgopt5.png");
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .elementor-36615 .elementor-element.elementor-element-2fe3f9d .cea-button .cea-align-icon-right {
   margin-left: 5px;
 }
@@ -450,10 +473,10 @@
 }
 
 .elementor-36615 .elementor-element.elementor-element-2fe3f9d>.elementor-widget-container {
-  background-image: url("../images/supply-freight.png");
-  background-position: -177px 0px;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: url("../images/supply-freight.jpeg");
+  background-position: -369px -100px;
+  background-size: contain;
+  background-repeat: repeat;
 }
 
 .elementor-36615 .elementor-element.elementor-element-2fe3f9d>.elementor-widget-container1 {
